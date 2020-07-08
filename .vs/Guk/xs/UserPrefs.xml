@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4F89134D-C0EB-4662-B086-8C241A76FE15}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Guk/model/Playlist.cs">
+    <Files>
+      <File FileName="Guk/MainPage.xaml" Line="24" Column="47" />
+      <File FileName="Guk/MainPage.xaml.cs" />
+      <File FileName="Guk/model/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="Guk/EmptyClass.cs" Line="8" Column="10" />
+      <File FileName="Guk/Album.cs" Line="1" Column="1" />
+      <File FileName="Guk/Playlist.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Guk" expanded="True">
+            <Node name="Guk" expanded="True">
+              <Node name="model" expanded="True">
+                <Node name="Author.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.Guk.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B80DBD65-E6AD-4896-A730-460B42090B0F" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
