@@ -4,7 +4,7 @@ namespace Guk
     public class Track
     {
         public string Name { get; set; }
-        public string Author { get; set; }
+        public Author author;
         public string Time { get; set; }
         public string ImageUrl { get; set; }
 

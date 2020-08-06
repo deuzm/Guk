@@ -1,0 +1,83 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

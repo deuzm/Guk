@@ -2,12 +2,13 @@
 /Users/lizamalinovskaa/Projects/Guk/Guk/bin/Debug/netstandard2.0/Guk.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk/bin/Debug/netstandard2.0/ref/Guk.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk/bin/Debug/netstandard2.0/Guk.pdb
-/Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.csprojAssemblyReference.cache
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.AssemblyInfoInputs.cache
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.AssemblyInfo.cs
+/Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.csproj.CoreCompileInputs.cache
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/ref/Guk.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.pdb
+/Users/lizamalinovskaa/Projects/Guk/Guk/obj/Debug/netstandard2.0/Guk.csprojAssemblyReference.cache

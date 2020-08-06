@@ -1,5 +1,11 @@
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Guk.iOS.exe
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Guk.iOS.pdb
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
@@ -45,14 +51,15 @@
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Guk.dll
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Guk.pdb
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_PartialAppManifest.items
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_BundleResourceWithLogicalName.items
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/coremlc/_PartialAppManifest.items
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/coremlc/_BundleResourceWithLogicalName.items
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/optimized/
-/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.csprojAssemblyReference.cache
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/actool/_PartialAppManifest.items
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/coremlc/_PartialAppManifest.items
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/optimized/
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.csproj.CoreCompileInputs.cache
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.csproj.CopyComplete
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.exe
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.pdb
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.csprojAssemblyReference.cache

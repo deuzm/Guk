@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using System.Diagnostics;
 
 namespace Guk
 {
@@ -14,9 +15,11 @@ namespace Guk
     public partial class MainPage : ContentPage
     {
         public IList<Track> Tracks { get; private set; }
+        public RestService restService;
 
         public MainPage()
         {
+            restService = new RestService();
             InitializeComponent();
 
             Tracks = new List<Track>();
@@ -48,6 +51,16 @@ namespace Guk
 
             });
             BindingContext = this;
+        }
+
+        async void OnButtonClicked(object sender, EventArgs args)
+        {
+            User user = new User("deuzm", "liza0807TIOL");
+            var result = await App.RestService.Login(user);
+            if (result != null)
+            {
+                App.UserDatabase.SaveUser(user);
+            }
         }
 
         void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
