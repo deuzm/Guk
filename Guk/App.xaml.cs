@@ -9,6 +9,7 @@ namespace Guk
         static RestService restService;
         static TokenDatabaseController tokenDatabase;
         static UserDatabaseController userDatabase;
+        static TrackDatabaseController trackDatabase;
 
         public App()
         {
@@ -52,6 +53,19 @@ namespace Guk
                     userDatabase = new UserDatabaseController();
                 }
                 return userDatabase;
+            }
+        }
+
+
+        public static TrackDatabaseController TrackDatabase
+        {
+            get
+            {
+                if (trackDatabase == null)
+                {
+                    trackDatabase = new TrackDatabaseController();
+                }
+                return trackDatabase;
             }
         }
 

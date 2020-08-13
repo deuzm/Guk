@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uVYUATNTvxZEa5VK3EPnBcpyiW2SgOKkCXkvQzFiP3lKPeYgtPxlQpDJf8TbqeItOJwtf8CMFFRqB6BB6hiC/w==",
+  "dgSpecHash": "jpUuWzMM7hGM/snuuMxViaAzJbhHIbM1s6F3ojUbyV9Qzrxjps5rrFyYrq5wdYRc3OM4bLJdtKB9+Er105Pq9Q==",
   "success": true,
   "projectFilePath": "/Users/lizamalinovskaa/Projects/Guk/Guk/Guk.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.3/sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",

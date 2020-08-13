@@ -63,3 +63,4 @@
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.exe
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.pdb
 /Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/Guk.iOS.csprojAssemblyReference.cache
+/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll

@@ -55,12 +55,13 @@ namespace Guk
 
         async void OnButtonClicked(object sender, EventArgs args)
         {
-            User user = new User("deuzm", "liza0807TIOL");
-            var result = await App.RestService.Login(user);
-            if (result != null)
-            {
-                App.UserDatabase.SaveUser(user);
-            }
+            var result = await App.RestService.GetAccessToken();
+            //User user = new User("deuzm", "liza0807TIOL");
+            //var result = await App.RestService.Login(user);
+            //if (result != null)
+            //{
+            //    App.UserDatabase.SaveUser(user);
+            //}
         }
 
         void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)

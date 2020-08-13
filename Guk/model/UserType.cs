@@ -3,7 +3,7 @@ namespace Guk
 {
     public enum UserType
     {
-        normal,
+        regular,
         admin
     }
 }

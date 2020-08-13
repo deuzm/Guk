@@ -1,14 +1,16 @@
-"--cache=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/mtouch-cache"
-"--sim=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/Guk.iOS.app"
---executable=Guk.iOS
 --debug
 --sgen-conc
---nolink
+/target-framework:Xamarin.iOS,Version=v1.0
+--http-message-handler=NSUrlSessionHandler
+"--cache=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/mtouch-cache"
+--root-assembly=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Guk.iOS.exe
 --sdkroot=/Applications/Xcode.app/Contents/Developer
+"--sim=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/Guk.iOS.app"
+--executable=Guk.iOS
+--nolink
 --sdk=13.6
 --targetver=8.0
 --aot-options=-O=-float32
---http-message-handler=NSUrlSessionHandler
 --abi=x86_64
 "--symbollist=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.6/mtouch-symbols.list"
 --dsym=no
@@ -171,6 +173,7 @@
 -r=/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
 -r=/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/lib/Xamarin.iOS10/SQLitePCLRaw.nativelibrary.dll
 -r=/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.core/2.0.3/lib/netstandard2.0/SQLitePCLRaw.core.dll
+-r=/Users/lizamalinovskaa/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
 -r=/Users/lizamalinovskaa/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
 -r=/Users/lizamalinovskaa/.nuget/packages/xamarin.essentials/1.2.0/lib/xamarinios10/Xamarin.Essentials.dll
 -r=/Users/lizamalinovskaa/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
@@ -212,5 +215,3 @@
 -r=/Users/lizamalinovskaa/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/lizamalinovskaa/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/lizamalinovskaa/Projects/Guk/Guk/bin/Debug/netstandard2.0/Guk.dll
---target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/lizamalinovskaa/Projects/Guk/Guk.iOS/bin/iPhoneSimulator/Debug/Guk.iOS.exe

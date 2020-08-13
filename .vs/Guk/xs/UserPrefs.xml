@@ -1,37 +1,31 @@
 ﻿<Properties StartupConfiguration="{4F89134D-C0EB-4662-B086-8C241A76FE15}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Guk/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Guk/model/RestService.cs">
     <Files>
-      <File FileName="Guk/model/Track.cs" Line="12" Column="10" />
+      <File FileName="Guk/model/Track.cs" Line="9" Column="19" />
+      <File FileName="Guk/model/RestService.cs" Line="1" Column="1" />
+      <File FileName="Guk/MainPage.xaml.cs" />
+      <File FileName="Guk/model/User.cs" />
+      <File FileName="Guk.iOS/Main.cs" />
+      <File FileName="Guk/model/Playlist.cs" />
+      <File FileName="Guk/model/Token.cs" Line="1" Column="1" />
+      <File FileName="Guk/model/Network.cs" />
+      <File FileName="Guk/App.xaml.cs" />
+      <File FileName="Guk/model/FeedType.cs" />
       <File FileName="Guk/model/Author.cs" />
       <File FileName="Guk/model/Album.cs" />
-      <File FileName="Guk/model/FeedType.cs" />
-      <File FileName="Guk/model/Playlist.cs" />
-      <File FileName="Guk/model/Network.cs" />
-      <File FileName="Guk/model/UserType.cs" />
-      <File FileName="Guk/App.xaml.cs" Line="35" Column="49" />
-      <File FileName="Guk/EmptyInterface.cs" />
-      <File FileName="Guk/SQLite_iOS.cs" />
-      <File FileName="Guk/MainPage.xaml.cs" />
-      <File FileName="Guk/Enumerable.cs" />
-      <File FileName="Guk/model/TockenDatabaseController.cs" />
-      <File FileName="Guk/model/User.cs" />
       <File FileName="Guk/model/UserDatabaseController.cs" />
-      <File FileName="Guk/AssemblyInfo.cs" />
-      <File FileName="Guk.iOS/Info (copy).plist" />
-      <File FileName="Guk.iOS/Main.cs" />
-      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/6.10.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
-      <File FileName="Guk.iOS/AppDelegate.cs" />
-      <File FileName="Guk.iOS/Entitlements.plist" />
+      <File FileName="Guk/model/UserType.cs" />
+      <File FileName="Guk/model/TokenDatabaseController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Guk" expanded="True">
             <Node name="Guk" expanded="True">
-              <Node name="model" expanded="True" />
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
+              <Node name="model" expanded="True">
+                <Node name="RestService.cs" selected="True" />
               </Node>
+              <Node name="App.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
             <Node name="Guk.iOS" expanded="True" />
@@ -42,9 +36,13 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.ItemProperties.Guk.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.18D6D5BD-6386-4F4D-89EA-C16A107EE2C9" />
+  <MonoDevelop.Ide.ItemProperties.Guk.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lizamalinovskaa/Projects/Guk/Guk/model/RestService.cs" relfile="Guk/model/RestService.cs" line="81" column="1" />
+      <Breakpoint file="/Users/lizamalinovskaa/Projects/Guk/Guk/model/RestService.cs" relfile="Guk/model/RestService.cs" line="85" column="1" />
+      <Breakpoint file="/Users/lizamalinovskaa/Projects/Guk/Guk/model/RestService.cs" relfile="Guk/model/RestService.cs" line="65" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

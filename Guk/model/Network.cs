@@ -22,8 +22,8 @@ namespace Guk
             //TODO  запихни это в XML файл
 
             string client_id = "client_id=0e3d685552874aec80cb3af511848f6f";
-            string responce_type = "responce_type=code";
-            string redirect_uri = "redirect_uri=guk-app-login%3A//callback%0D%0A";
+            string responce_type = "response_type=code";
+            string redirect_uri = "redirect_uri=guk-app-login:/guk.com/callback";
             string code_challenge_method = "code_challenge_method=S256";
             string code_challenge = $"code_challenge={ComputeSha256Hash("code_verifyer")}"; //TODO
             string scope = "scope=user-follow-modify";
